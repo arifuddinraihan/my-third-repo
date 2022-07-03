@@ -1,0 +1,20 @@
+h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 800;
+    background-color: crimson;
+    padding: 15px; 
+    border: 10px;
+    margin: 60px;
+}
+
+p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 500;
+    background-color: darkslateblue;
+    color: beige;
+    padding: 15px; 
+    border: 10px;
+    margin: 60px;
+    display: 100% - 2em;
+    text-align: justify;
+}
